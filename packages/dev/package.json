@@ -1,10 +1,10 @@
 {
-  "name": "@remix-pwa/dev",
-  "version": "3.0.5",
+  "name": "@realrunner/remix-pwa-dev",
+  "version": "3.0.6",
   "description": "An esbuild compiler for Service Workers in Remix.run",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/remix-pwa/monorepo.git",
+    "url": "git@github.com:realrunner/remix-pwa-monorepo.git",
     "directory": "packages/dev"
   },
   "homepage": "https://remix-pwa.run",
